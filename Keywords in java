@@ -1,0 +1,24 @@
+class a
+{
+    int id;
+    String name;
+    a(int id,String name)
+    {
+        this.id=id;
+        this.name=name;
+
+    }
+    void display()
+    {
+        System.out.println("Id="+id+"Name="+name);
+    }
+}
+
+class b
+{
+    public static void main(String args[])
+    {
+        a e=new a(101,"vaishu");
+        e.display();
+    }
+}
