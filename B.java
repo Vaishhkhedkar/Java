@@ -30,4 +30,7 @@ class A
  s.Add();
  s.display("vaishu",1506);
  }
+
+
+
  }
