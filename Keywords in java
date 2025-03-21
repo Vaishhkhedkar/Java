@@ -6,7 +6,6 @@ class a
     {
         this.id=id;
         this.name=name;
-
     }
 
     void display()
