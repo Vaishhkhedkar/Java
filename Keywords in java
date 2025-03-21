@@ -8,6 +8,7 @@ class a
         this.name=name;
 
     }
+
     void display()
     {
         System.out.println("Id="+id+"Name="+name);
