@@ -21,4 +21,5 @@ class b
         a e=new a(101,"vaishu");
         e.display();
     }
+
 }
